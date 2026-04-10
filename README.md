@@ -77,13 +77,6 @@ Seaborn
 
 Scikit-learn
 
-🔹 Installation
-
-git clone https://github.com/your-username/Fraud-Detection-System-Using-Machine-Learning.git
-
-cd Fraud-Detection-System-Using-Machine-Learning
-
-pip install -r requirements.txt
 
 🔹 Usage
 
